@@ -36,4 +36,6 @@ The objective of this project was to analyze raw coffee sales data spanning acro
 ---
 
 ## 📈 Dashboard Preview
-*(Add a screenshot of your Excel dashboard here)*
+
+<img width="1386" height="767" alt="image" src="https://github.com/user-attachments/assets/ad52e66b-f48d-4ca3-8e92-ca8d58daa048" />
+
