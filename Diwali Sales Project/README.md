@@ -65,5 +65,10 @@ sns.barplot(x='Gender', y='Amount', data=sales_gen)
 plt.show()
 
 
+🚀 Conclusion & Business Recommendations
+Target Audience: Marketing and promotional campaigns should specifically target female demographics aged 26–35.
 
+Regional Focus: Inventory stocking and logistics should be prioritized in high-demand states like Uttar Pradesh and Maharashtra.
+
+Product Stocking: High-revenue categories such as Food and Clothing should receive prominent placement and special festive discounts.
 
