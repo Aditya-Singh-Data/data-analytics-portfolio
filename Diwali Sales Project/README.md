@@ -47,7 +47,7 @@ The objective of this project is to analyze customer demographic and transaction
 ## 📈 Exploratory Data Analysis Code Workflow
 Here is a quick snapshot of how the analysis was structured in the notebook:
 
-```python
+python
 # Data Loading & Cleaning
 import numpy as np
 import pandas as pd
