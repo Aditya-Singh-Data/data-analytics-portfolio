@@ -47,7 +47,6 @@ The objective of this project is to analyze customer demographic and transaction
 ## 📈 Exploratory Data Analysis Code Workflow
 Here is a quick snapshot of how the analysis was structured in the notebook:
 
-python
 # Data Loading & Cleaning
 import numpy as np
 import pandas as pd
@@ -63,6 +62,13 @@ df['Amount'] = df['Amount'].astype('int')
 sales_gen = df.groupby(['Gender'], as_index=False)['Amount'].sum().sort_values(by='Amount', ascending=False)
 sns.barplot(x='Gender', y='Amount', data=sales_gen)
 plt.show()
+
+
+
+
+
+
+
 
 
 🚀 Conclusion & Business Recommendations
