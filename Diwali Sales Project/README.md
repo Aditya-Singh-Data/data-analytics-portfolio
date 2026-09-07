@@ -68,18 +68,7 @@ plt.show()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-🚀 Conclusion & Business Recommendations
+## 🚀 Conclusion & Business Recommendations
 Target Audience: Marketing and promotional campaigns should specifically target female demographics aged 26–35.
 
 Regional Focus: Inventory stocking and logistics should be prioritized in high-demand states like Uttar Pradesh and Maharashtra.
