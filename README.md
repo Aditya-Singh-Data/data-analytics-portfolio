@@ -1,40 +1,179 @@
+# Hi, I'm Aditaya Singh 👋
 
-# 📊 Data Analytics Portfolio | Aditaya Singh
+### Aspiring Data Analyst | SQL • Python • Excel • Power BI
 
-Welcome to my data analytics repository! This portfolio showcases my technical projects, data cleaning workflows, exploratory data analysis (EDA), and interactive dashboard designs as an aspiring Data Analyst.
+I’m an aspiring Data Analyst focused on turning raw data into clear insights and business-focused dashboards.
+
+I enjoy working across the complete analytics workflow — from **data cleaning and exploratory analysis to SQL-based business analysis and interactive dashboard development.**
+
+Currently building hands-on projects in **Python, SQL, Excel, and Power BI** while developing my analytical and business problem-solving skills.
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☕ Global Coffee Sales Analysis (Excel)
-* **Description:** An end-to-end data analysis project exploring 1,000+ global coffee transactions generating **$45,000+ in revenue** across the US, UK, and Ireland.
-* **Key Objectives:** Clean raw transactional data, investigate regional purchasing trends, evaluate product performance, and build an executive summary dashboard.
-* **Tools & Techniques Used:** 
-  * **Microsoft Excel:** Data Cleaning, Pivot Tables, XLOOKUP, Slicers, Conditional Formatting.
-  * **Data Visualization:** Interactive Dashboard design for real-time metric tracking.
-* **Key Insights & Findings:**
-  * Identified top-performing product categories and regional sales hotspots driving maximum revenue.
-  * Analyzed customer purchasing patterns to provide actionable business recommendations.
-* **📁 Project Link:** [View Project Folder](./Excel-Coffee-Sales-Analysis)
+### 🏪 7-Eleven Sales Analysis
+**Python | SQL | Power BI**
+
+An end-to-end self-initiated data analytics project analyzing **6,436 weekly sales records across 45 stores from 2010–2012**.
+
+**What I worked on:**
+- Defined a business problem and converted it into analytical questions
+- Cleaned and validated the dataset using Python
+- Used SQL to analyze sales trends, store performance, and holiday patterns
+- Performed EDA and correlation analysis using Python
+- Built an interactive Power BI dashboard with KPIs, slicers, and sales visualizations
+- Generated business insights and recommendations from the analysis
+
+**Key Findings:**
+- 2011 recorded the highest total weekly sales at approximately **$2.45B**
+- Store-level sales performance varied considerably
+- Holiday weeks had approximately **7.84% higher average weekly sales**
+- Temperature, fuel price, and CPI showed very weak linear relationships with weekly sales
+
+📁 **[View 7-Eleven Sales Analysis](./7-Eleven-Sales-Analysis)**
 
 ---
 
-## 🛠️ Technical Skills & Toolkit
-* **Programming Languages:** Python (Basic Data Analysis)
-* **Databases & Querying:** SQL, Relational Databases
-* **Tools & Software:** Microsoft Excel (Advanced formulas, Dashboards, Slicers), Power BI (Basic)
-* **Core Competencies:** Data Cleaning & Transformation, Exploratory Data Analysis (EDA), Data Visualization, Business Intelligence
+### ☕ Global Coffee Sales Analysis
+**Microsoft Excel**
+
+An Excel-based sales analysis project using **1,000 transactions** across the **US, UK, and Ireland**, generating approximately **$45K in revenue**.
+
+**What I worked on:**
+- Data cleaning and transformation
+- XLOOKUP and statistical functions
+- Pivot Tables
+- Interactive slicers
+- Sales analysis by country and coffee type
+- Dashboard development
+
+📁 **[View Coffee Sales Analysis](./Excel-Coffee-Sales-Analysis)**
 
 ---
 
-## 📜 Certifications
-* **SQL and Relational Databases 101** – Cognitive Class (IBM) | *Credential ID: `9c719bb0c43a19bb056c6275b8fd6`*
-* **Python 101 for Data Science** – Cognitive Class (IBM) | *Credential ID: `53da4de94f6e40d590c78d55315b1908`*
+## 🧰 Technical Toolkit
+
+### 📊 Data Analysis
+- Python
+- Pandas
+- NumPy
+- SQL
+- Microsoft Excel
+
+### 📈 Data Visualization & BI
+- Power BI
+- DAX
+- Power Query
+- Matplotlib
+- Excel Dashboards
+
+### 🧠 Core Skills
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Business Analysis
+- SQL Analysis
+- Data Visualization
+- Dashboard Development
+- Correlation Analysis
+- Business Insight Generation
 
 ---
 
-## 🌐 Connect With Me
-* **LinkedIn:** [Aditaya Singh - LinkedIn Profile](https://www.linkedin.com/in/aditaya-singh-data-analyst/)
-* **Email:** aditaya99530@gmail.com
-* **Location:** New Delhi, India
+## 🐍 Python
+
+**Libraries & Tools**
+
+`Pandas` `NumPy` `Matplotlib`
+
+Currently using Python for:
+- Data cleaning
+- Data transformation
+- Exploratory Data Analysis
+- Statistical analysis
+- Data visualization
+
+---
+
+## 🗄️ SQL
+
+Currently practicing SQL for real-world business analysis, including:
+
+- Filtering and aggregation
+- GROUP BY analysis
+- Date-based analysis
+- Store-level analysis
+- Business questions
+- Ranking and analytical queries
+
+---
+
+## 📊 Power BI
+
+Experience with:
+
+- Power Query
+- Data Modeling
+- DAX Measures
+- KPI Cards
+- Slicers
+- Interactive Dashboards
+- Data Visualization
+
+### Current Dashboard Project
+
+**7-Eleven Sales Performance Dashboard**
+
+Designed to analyze:
+- Overall sales performance
+- Yearly sales trends
+- Store performance
+- Holiday vs non-holiday sales
+- Fuel price trends
+- Temperature vs sales
+
+---
+
+## 📚 Certifications
+
+### IBM — Cognitive Class
+
+**SQL and Relational Databases 101**  
+Credential ID: `9c719bb0c43a19bb056c6275b8fd6`
+
+**Python 101 for Data Science**  
+Credential ID: `53da4de94f6e40d590c78d55315b1908`
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Business-focused Data Analysis
+- Advanced Power BI & DAX
+- Data Analytics Projects
+- Professional English
+- Japanese Language
+
+---
+
+## 🎯 My Analytics Approach
+
+I follow a practical, business-focused workflow:
+
+```text
+Business Problem
+       ↓
+Understand the Data
+       ↓
+Clean & Validate
+       ↓
+Ask Business Questions
+       ↓
+Analyze with SQL & Python
+       ↓
+Build Dashboard
+       ↓
+Generate Insights
+       ↓
+Recommend Next Steps
