@@ -263,9 +263,9 @@ The Power BI dashboard provides an interactive overview of the major sales patte
 - Store filter
 - Holiday Status filter
 
-### Dashboard Preview
+## 📊 Dashboard Preview
 
-![7-Eleven Sales Performance Dashboard](Images/dashboard.png)
+![7-Eleven Sales Performance Dashboard](Image/7-Eleven%20Sales%20Performance%20Dashboard.png)
 
 ---
 
