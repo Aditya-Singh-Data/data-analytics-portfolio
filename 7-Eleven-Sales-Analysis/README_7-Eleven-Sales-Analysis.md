@@ -462,6 +462,6 @@ The project demonstrates an end-to-end data analytics workflow, from defining a 
 
 ## 🔗 Connect
 
-**GitHub:** Add your GitHub profile/repository link here
+**GitHub:https://github.com/Aditya-Singh-Data/data-analytics-portfolio
 
-**LinkedIn:** Add your LinkedIn profile link here
+**LinkedIn:www.linkedin.com/in/aditaya-singh-data-analyst
