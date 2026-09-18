@@ -397,3 +397,15 @@ Interactive Dashboard
 Insights & Recommendations
        ↓
 Documentation
+
+
+
+
+
+## Conclusion
+
+This project shows how raw weekly sales data from 45 stores can be turned into clear, business-relevant insights using a structured analytics workflow.
+
+The analysis found meaningful patterns in yearly sales trends, store-level performance, and holiday effects, while also showing that temperature, fuel price, and CPI alone do not explain weekly sales variation in this dataset. This distinction matters because it prevents drawing wrong conclusions from weak or misleading relationships.
+
+Overall, the project demonstrates the ability to move from a business problem to a working analysis pipeline (SQL, Python, Power BI) and end with recommendations that a business could actually act on. Store-level performance gaps and the 2012 sales decline stand out as the two areas most worth deeper investigation going forward.
