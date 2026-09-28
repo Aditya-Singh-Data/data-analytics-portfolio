@@ -1,5 +1,28 @@
-## 📄 Project Documentation
+# E-Commerce Sales & Profit Analysis
 
-For detailed project documentation, including the Python analysis questions, KPI analysis, DAX measures, business insights, and recommendations:
+## Project Overview
+...
 
-👉 [View Full Project Documentation (PDF)](./E-Commerce_Sales_Profit_Analysis_Professional_Documentation.pdf)
+## Business Objective
+...
+
+## Dataset
+...
+
+## Tools & Technologies
+...
+
+## Python Exploratory Data Analysis
+...
+
+## Power BI Dashboard
+...
+
+## Key Business Insights
+...
+
+## Business Recommendations
+...
+
+## Project Structure
+...
