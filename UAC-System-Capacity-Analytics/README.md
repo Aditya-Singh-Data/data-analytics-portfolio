@@ -51,7 +51,7 @@ A data analytics project analyzing the **U.S. HHS Unaccompanied Children Program
 
 ## 📄 Project Documentation
 
-👉 [View Full Project Documentation (PDF)](UAC_System_Capacity_Analytics_Project_Report_Internship.pdf))
+(📄 [View Full Project Documentation (PDF)](./Report/UAC_System_Capacity_Analytics_Project_Report.pdf)))
 
 ## 📁 Project Files
 
