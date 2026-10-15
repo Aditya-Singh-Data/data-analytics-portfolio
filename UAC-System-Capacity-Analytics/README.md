@@ -39,7 +39,7 @@ A data analytics project analyzing the **U.S. HHS Unaccompanied Children Program
 - Transfers
 - HHS Discharges
 
-![System Overview](UAC-System-Capacity-Analytics/Dashborad%20Image/Page%201%20%E2%80%94%20System%20Overview.png)
+![System Overview](./Dashboard/Page-1-System-Overview.png)
 
 ### Page 2 — System Flow & Relationships
 
@@ -47,7 +47,7 @@ A data analytics project analyzing the **U.S. HHS Unaccompanied Children Program
 - Apprehensions vs. Transfers
 - CBP Custody vs. HHS Care
 
-![System Flow & Relationships]()
+![System Flow & Relationships](./Dashboard/Page-2-System-Flow-Relationships.png)
 
 ## 📄 Project Documentation
 
