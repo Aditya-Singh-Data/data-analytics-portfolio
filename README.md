@@ -1,165 +1,129 @@
 # Hi, I'm Aditaya Singh 👋
 
-### Aspiring Data Analyst | SQL • Python • Excel • Power BI
+### Data Analyst | SQL • Python • Power BI • Excel
 
-I’m an aspiring Data Analyst focused on turning raw data into clear insights and business-focused dashboards.
+Data Analyst Intern at **Unified Mentor**, with hands-on experience turning raw operational and business data into actionable insights.
 
-I enjoy working across the complete analytics workflow — from **data cleaning and exploratory analysis to SQL-based business analysis and interactive dashboard development.**
+I work across the end-to-end analytics workflow — **data cleaning, validation, exploratory analysis, SQL business analysis, KPI development, dashboarding, and business recommendations.**
 
-Currently building hands-on projects in **Python, SQL, Excel, and Power BI** while developing my analytical and business problem-solving skills.
+Currently building practical analytics projects across **operational analytics, customer analytics, retail, and e-commerce**.
+
+---
+
+## 💼 Experience
+
+### Data Analyst Intern — Unified Mentor
+
+**Oct 2026 – Present**
+
+- Analyzed U.S. HHS Unaccompanied Children Program data to evaluate system capacity, intake, and care-load trends.
+- Cleaned and validated **1,170 raw records** using Python and Pandas.
+- Identified a peak HHS care load of **11,516 children** compared with a **6,061 average**.
+- Built a two-page Power BI dashboard covering care load, CBP custody, apprehensions, transfers, and discharges.
+- Recommended peak-based capacity planning and **7-day / 30-day rolling averages** as early-warning indicators.
+- Flagged **122 three-day data gaps** as a data-quality issue.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏪 7-Eleven Sales Analysis
-**Python | SQL | Power BI**
+### 🏥 UAC System Capacity Analytics
 
-An end-to-end self-initiated data analytics project analyzing **6,436 weekly sales records across 45 stores from 2010–2012**.
+**Python • Pandas • Power BI • Data Analysis**
 
-**What I worked on:**
-- Defined a business problem and converted it into analytical questions
-- Cleaned and validated the dataset using Python
-- Used SQL to analyze sales trends, store performance, and holiday patterns
-- Performed EDA and correlation analysis using Python
-- Built an interactive Power BI dashboard with KPIs, slicers, and sales visualizations
-- Generated business insights and recommendations from the analysis
+An operational analytics project analyzing U.S. HHS Unaccompanied Children Program data across **36 monthly periods**.
+
+**Focus:**
+
+- Data cleaning and validation
+- Capacity and care-load analysis
+- Trend analysis
+- Feature engineering
+- KPI development
+- Power BI dashboarding
+- Operational recommendations
 
 **Key Findings:**
-- 2011 recorded the highest total weekly sales at approximately **$2.45B**
-- Store-level sales performance varied considerably
-- Holiday weeks had approximately **7.84% higher average weekly sales**
-- Temperature, fuel price, and CPI showed very weak linear relationships with weekly sales
 
-📁 **[View 7-Eleven Sales Analysis](./7-Eleven-Sales-Analysis)**
+- Peak HHS care load reached **11,516 children** versus a **6,061 average**.
+- System measures showed a sharp and sustained decline from early 2025.
+- Identified **122 three-day gaps** requiring data-quality attention.
 
----
+**Business Recommendation:**
 
-### ☕ Global Coffee Sales Analysis
-**Microsoft Excel**
+Use peak-load planning and rolling 7-day / 30-day intake trends as early-warning signals for capacity management.
 
-An Excel-based sales analysis project using **1,000 transactions** across the **US, UK, and Ireland**, generating approximately **$45K in revenue**.
-
-**What I worked on:**
-- Data cleaning and transformation
-- XLOOKUP and statistical functions
-- Pivot Tables
-- Interactive slicers
-- Sales analysis by country and coffee type
-- Dashboard development
-
-📁 **[View Coffee Sales Analysis](./Excel-Coffee-Sales-Analysis)**
+📁 **[View Project →](#)**
 
 ---
 
-## 🧰 Technical Toolkit
+### 🏪 7-Eleven Sales Analysis
 
-### 📊 Data Analysis
-- Python
-- Pandas
-- NumPy
-- SQL
-- Microsoft Excel
+**SQL • Python • Pandas • Power BI**
 
-### 📈 Data Visualization & BI
-- Power BI
-- DAX
-- Power Query
-- Matplotlib
-- Excel Dashboards
+Analyzed **6,436 weekly sales records across 45 stores from 2010–2012** to understand store performance, sales trends, holiday effects, and relationships with external variables.
 
-### 🧠 Core Skills
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Business Analysis
-- SQL Analysis
-- Data Visualization
-- Dashboard Development
-- Correlation Analysis
-- Business Insight Generation
+**Key Findings:**
+
+- 2011 recorded approximately **$2.45B** in total sales.
+- Store 20 generated approximately **$301.4M**, while Store 33 generated approximately **$37.2M**.
+- Holiday weeks averaged **7.84% higher sales** than non-holiday weeks.
+- Temperature, fuel price, and CPI showed very weak linear relationships with weekly sales.
+
+**Business Recommendation:**
+
+Investigate store-level operational drivers and review holiday sales planning rather than relying heavily on weak external-variable relationships.
+
+📁 **[View Project →](#)**
 
 ---
 
-## 🐍 Python
+### 🛒 E-Commerce Sales & Profit Analysis
 
-**Libraries & Tools**
+**Python • Pandas • Matplotlib • Power BI • DAX**
 
-`Pandas` `NumPy` `Matplotlib`
+Analyzed transaction-level e-commerce data to evaluate sales, profitability, categories, sub-categories, and customer segments.
 
-Currently using Python for:
-- Data cleaning
-- Data transformation
-- Exploratory Data Analysis
-- Statistical analysis
-- Data visualization
+**Key Results:**
 
----
+- **$2.30M** total sales
+- **$286.40K** total profit
+- **5,009** orders
+- **12.47%** overall profit margin
+- **$458.61** average order value
+- **20.36%** YoY sales growth
 
-## 🗄️ SQL
+**Key Finding:**
 
-Currently practicing SQL for real-world business analysis, including:
+Furniture generated approximately **$742.20K in sales** but achieved only a **2.5% margin**, compared with **17.4% for Technology**.
 
-- Filtering and aggregation
-- GROUP BY analysis
-- Date-based analysis
-- Store-level analysis
-- Business questions
-- Ranking and analytical queries
+**Business Recommendation:**
 
----
+Review Furniture pricing, discounting, and cost structure while prioritizing high-margin Technology products.
 
-## 📊 Power BI
-
-Experience with:
-
-- Power Query
-- Data Modeling
-- DAX Measures
-- KPI Cards
-- Slicers
-- Interactive Dashboards
-- Data Visualization
-
-### Current Dashboard Project
-
-**7-Eleven Sales Performance Dashboard**
-
-Designed to analyze:
-- Overall sales performance
-- Yearly sales trends
-- Store performance
-- Holiday vs non-holiday sales
-- Fuel price trends
-- Temperature vs sales
+📁 **[View Project →](#)**
 
 ---
 
-## 📚 Certifications
+## 🧰 Technical Skills
 
-### IBM — Cognitive Class
+### Data Analysis
+`SQL` `Python` `Pandas` `NumPy` `Excel`
 
-**SQL and Relational Databases 101**  
-Credential ID: `9c719bb0c43a19bb056c6275b8fd6`
+### Business Intelligence & Visualization
+`Power BI` `DAX` `Power Query` `Matplotlib`
 
-**Python 101 for Data Science**  
-Credential ID: `53da4de94f6e40d590c78d55315b1908`
+### Core Analytics
+`Data Cleaning` `Data Validation` `EDA` `Business Analysis` `KPI Analysis` `Trend Analysis` `Correlation Analysis` `Business Insights` `Recommendations`
 
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL
-- Business-focused Data Analysis
-- Advanced Power BI & DAX
-- Data Analytics Projects
-- Professional English
-- Japanese Language
+### Tools
+`Jupyter Notebook` `GitHub`
 
 ---
 
-## 🎯 My Analytics Approach
+## 📊 Analytics Workflow
 
-I follow a practical, business-focused workflow:
+I approach analytics as a business problem first, not just a technical task.
 
 ```text
 Business Problem
@@ -168,12 +132,41 @@ Understand the Data
        ↓
 Clean & Validate
        ↓
-Ask Business Questions
+Define Business Questions
        ↓
 Analyze with SQL & Python
        ↓
-Build Dashboard
+Build KPIs & Dashboard
        ↓
 Generate Insights
        ↓
 Recommend Next Steps
+```
+
+---
+
+## 📚 Certifications
+
+**Python 101 for Data Science** — Cognitive Class
+
+**SQL and Relational Databases 101** — Cognitive Class
+
+---
+
+## 🎯 Current Focus
+
+- Advanced SQL and analytical querying
+- Business-focused data analysis
+- Power BI and DAX
+- Customer and churn analytics
+- Building industry-style portfolio projects
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** aditaya.singh.da@gmail.com
+
+🔗 **LinkedIn:** [linkedin.com/in/aditaya-singh-data-analyst](https://www.linkedin.com/in/aditaya-singh-data-analyst)
+
+💻 **GitHub:** [github.com/Aditya-Singh-Data](https://github.com/Aditya-Singh-Data)
